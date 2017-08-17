@@ -1,6 +1,6 @@
 # Start with Ubuntu base image
 #
-FROM ubuntu:16.04
+FROM ubuntu:17.04
 MAINTAINER Kai Arulkumaran <design@kaixhin.com>
 
 # Install LXDE, VNC server and Firefox
